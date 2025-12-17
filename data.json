@@ -1,0 +1,187 @@
+{
+  "popularLocations": [
+    "Divisoria",
+    "Cogon",
+    "Centrio",
+    "Carmen",
+    "Bulua",
+    "Agora",
+    "Limketkai",
+    "Puerto",
+    "Lumbia"
+  ],
+  "routes": [
+    {
+      "code": "R1",
+      "name": "Cogon - Carmen (Loop)",
+      "description": "Classic city loop passing Velez St, Centrio, and Carmen Market",
+      "stops": [
+        "Cogon Market",
+        "Xavier University",
+        "Centrio",
+        "Velez St",
+        "Carmen Market",
+        "Madonna & Child"
+      ]
+    },
+    {
+      "code": "R2",
+      "name": "Carmen - Cogon (Loop)",
+      "description": "Reverse city loop passing Nazareno and Cogon",
+      "stops": [
+        "Carmen Market",
+        "City Hall",
+        "Gaston Park",
+        "Divisoria",
+        "Xavier University",
+        "Cogon Market"
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Lapasan - Agora (Loop)",
+      "description": "Connects port area/Agora terminal to downtown",
+      "stops": [
+        "Agora Terminal",
+        "Gaabucayan",
+        "Cogon Market",
+        "Divisoria",
+        "Xavier University",
+        "Limketkai",
+        "Lapasan"
+      ]
+    },
+    {
+      "code": "C2",
+      "name": "Patag - Cogon",
+      "description": "Serves the Patag military camp area to downtown",
+      "stops": [
+        "Camp Evangelista (Patag)",
+        "Carmen Market",
+        "Velez St",
+        "Cogon Market",
+        "Divisoria"
+      ]
+    },
+    {
+      "code": "Bulua R1",
+      "name": "Bulua - Agora",
+      "description": "Highway route connecting Westbound (Bulua) and Eastbound (Agora) terminals",
+      "stops": [
+        "Bulua Terminal",
+        "Kauswagan Highway",
+        "Lico-an",
+        "Limketkai",
+        "Agora Terminal"
+      ]
+    },
+    {
+      "code": "Bulua R4",
+      "name": "Bulua - Cogon",
+      "description": "Westbound terminal to Cogon Market via Kauswagan",
+      "stops": [
+        "Bulua Terminal",
+        "Kauswagan",
+        "Marcos Bridge",
+        "Centrio",
+        "Cogon Market"
+      ]
+    },
+    {
+      "code": "Bugo R1",
+      "name": "Bugo - Agora",
+      "description": "Eastern liner route passing major highway stops",
+      "stops": ["Bugo", "Puerto", "Gusa", "Lapasan", "Agora Terminal"]
+    },
+    {
+      "code": "Bugo R2",
+      "name": "Bugo - Cogon",
+      "description": "Eastern route entering the city center",
+      "stops": ["Bugo", "Puerto", "Tin-ao", "Gusa", "Limketkai", "Cogon Market"]
+    },
+    {
+      "code": "Puerto R1",
+      "name": "Puerto - Agora",
+      "description": "Short liner route from Puerto market to Agora",
+      "stops": ["Puerto Market", "Tin-ao", "Cugman", "Gusa", "Agora Terminal"]
+    },
+    {
+      "code": "RD",
+      "name": "Gusa - Divisoria",
+      "description": "Route 'Divisoria' serving eastern coastal barangays",
+      "stops": [
+        "Gusa (Villa Ernesto)",
+        "Cugman",
+        "Agora (passing)",
+        "Divisoria",
+        "Xavier University"
+      ]
+    },
+    {
+      "code": "Lumbia R1",
+      "name": "Lumbia - Cogon",
+      "description": "Uptown route from Lumbia to main market",
+      "stops": [
+        "Lumbia",
+        "Upper Carmen",
+        "Pala-o",
+        "Carmen Market",
+        "Cogon Market"
+      ]
+    },
+    {
+      "code": "Lumbia R2",
+      "name": "Lumbia - Carmen",
+      "description": "Shorter uptown route terminating at Carmen",
+      "stops": ["Lumbia", "Xavier Heights", "Macanhan", "Carmen Market"]
+    },
+    {
+      "code": "Balulang R1",
+      "name": "Balulang - Carmen",
+      "description": "Connects Balulang residential areas to Carmen hub",
+      "stops": ["Balulang", "Macanhan", "Carmen Market", "Madonna & Child"]
+    },
+    {
+      "code": "Balulang R2",
+      "name": "Balulang - Cogon",
+      "description": "Connects Balulang to Cogon via Carmen",
+      "stops": ["Villa Verde", "Balulang", "Carmen Market", "Cogon Market"]
+    },
+    {
+      "code": "Iponan R1",
+      "name": "Iponan - Cogon",
+      "description": "Western route from Iponan passing Bulua",
+      "stops": ["Iponan", "Bulua Highway", "Kauswagan", "Cogon Market"]
+    },
+    {
+      "code": "Macabalan R1",
+      "name": "Macabalan - Cogon",
+      "description": "Port area route to downtown",
+      "stops": ["Macabalan Port", "Puntod", "Julio Pacana", "Cogon Market"]
+    },
+    {
+      "code": "Bayabas R1",
+      "name": "Bayabas - Cogon",
+      "description": "Coastal western route",
+      "stops": ["Bayabas", "Kauswagan", "Lico-an", "Cogon Market"]
+    },
+    {
+      "code": "Bonbon R1",
+      "name": "Bonbon - Cogon",
+      "description": "From Bonbon via Kauswagan to Cogon",
+      "stops": ["Bonbon", "Bayabas Crossing", "Kauswagan", "Cogon Market"]
+    },
+    {
+      "code": "Indahag R1",
+      "name": "Indahag - Cogon",
+      "description": "Mountain route connecting Indahag to downtown",
+      "stops": ["Indahag", "Camaman-an", "Limketkai", "Cogon Market"]
+    },
+    {
+      "code": "Pagatpat R2",
+      "name": "Pagatpat - Carmen",
+      "description": "Far-west residential route to Carmen hub",
+      "stops": ["Pagatpat", "Canitoan", "Silver Creek", "Carmen Market"]
+    }
+  ]
+}
